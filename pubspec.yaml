@@ -1,0 +1,10 @@
+name: scidash
+description: A complete scientific library for Dart language
+version: 0.0.1
+homepage: https://github.com/stelynx/scidash
+repository: https://github.com/stelynx/scidash
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+dev_dependencies: 
+  test: ^1.17.12
