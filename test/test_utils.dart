@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:scidash/core/matrix.dart';
 import 'package:scidash/core/vector.dart';
 import 'package:test/test.dart';
